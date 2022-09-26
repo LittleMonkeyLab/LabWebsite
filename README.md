@@ -1,2 +1,2 @@
 # LabWebsite
-Lab Website
+A great philosopher once wrote "Naughty, Naughty, very Naughty!"
