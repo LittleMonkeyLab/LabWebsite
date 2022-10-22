@@ -1,0 +1,55 @@
+---
+title: "About"
+---
+
+I am doing lots of stuff
+
+### Research Interests
+
+- Deception (Lie detection and lie production)
+- Interpersonal interaction
+- Data Science
+- Experimental Design
+
+### Doctoral Research
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Birkbeck, University of London**  
+PhD in Experimental Psychology
+Supervisors: Professor Geoff Bird, Professor Anne Richards, Dr. Clare Press
+:::
+::: {.text-end}
+London, UK  
+Granted 2014
+:::
+:::
+- Dissertation: *Deception General Ability: Individual differences in the ability to lie and to detect deception*
+- ESRC funded
+
+### Employment
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Goldsmiths, University of London**  
+Lecturer in Psychology
+:::
+::: {.text-end}
+London, UK  
+Started 2016
+:::
+:::
+
+### Teaching
+
+#### Undergraduate Research Methods Y2 (Level 5)
+
+
+<!-- ::: {.d-flex .justify-content-between} -->
+<!-- ::: {} -->
+<!-- Introduction to R for NYU Datalab -->
+<!-- ::: -->
+<!-- ::: {.text-end} -->
+<!-- January 2013 -->
+<!-- ::: -->
+<!-- ::: -->
