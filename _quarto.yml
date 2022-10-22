@@ -20,7 +20,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-
+    right: 
+    - icon: twitter
+      href: https://twitter.com/littlemonkeylab
+    - icon: linkedin
+      href: https://www.linkedin.com/in/gordonrtwright
+    - icon: github
+      href: https://github.com/littlemonkeylab
 
 format:
   html:
