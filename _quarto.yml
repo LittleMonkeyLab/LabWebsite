@@ -15,14 +15,16 @@ website:
     site: "@littlemonkeylab"
     card-style: "summary_large_image"
   navbar:
-    background: "yellow"
-    foreground: dark
+    background: "#066666"
+    foreground: light
     left:
       - href: about.qmd
         text: About
       - href: index.qmd
         text: Home
-    right: 
+      - href: team.qmd
+        text: TheMonkeys
+    right:
     - icon: twitter
       href: https://twitter.com/littlemonkeylab
     - icon: linkedin
@@ -30,9 +32,9 @@ website:
     - icon: github
       href: https://github.com/littlemonkeylab
   page-navigation: true
-  page-footer: 
+  page-footer:
     center: "Copyright © 2022 Dr. Gordon Wright"
-    background: primary
+    background: "#066666"
     foreground: "white"
 format:
   html:
