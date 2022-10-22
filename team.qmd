@@ -1,3 +1,6 @@
+---
+title: "Team"
+---
 These are all the fab little monkeys in the lab!
 
 [Dr. Gordon Wright](https://www.littlemonkeylab.com/gordon.html)
