@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "LittleMonkeyLab"
+  description: "Our Lab Website"
+  site-url: https://littlemonkeylab.com
+  repo-url: https://github.com/littlemonkeylab/LabWebsite
+  google-analytics: ""
+  open-graph: true
+  favicon: favicon.png
+  twitter-card: 
+    creator: "@littlemonkeylab"
+    site: "@littlemonkeylab"
+    card-style: "summary_large_image"
+  navbar:
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+    toc-depth: 4
+    toc-title: "Contents"
+    include-in-header:
+      - includes.html
+    highlight-style: tango
