@@ -5,9 +5,9 @@ project:
 website:
   title: "LittleMonkeyLab"
   description: "Our Lab Website"
-  site-url: https://littlemonkeylab.com
+  site-url: https://www.littlemonkeylab.com
   repo-url: https://github.com/littlemonkeylab/LabWebsite
-  google-analytics: ""
+
   open-graph: true
   favicon: favicon.png
   twitter-card: 
