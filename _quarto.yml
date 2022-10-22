@@ -18,10 +18,10 @@ website:
     background: "#066666"
     foreground: light
     left:
-      - href: about.qmd
-        text: About
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: team.qmd
         text: TheMonkeys
     right:
