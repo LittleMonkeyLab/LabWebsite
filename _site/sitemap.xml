@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.littlemonkeylab.com/gordon.html</loc>
+    <lastmod>2022-10-22T09:59:38.433Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.littlemonkeylab.com/team.html</loc>
-    <lastmod>2022-10-22T09:55:49.876Z</lastmod>
+    <lastmod>2022-10-22T09:59:38.676Z</lastmod>
   </url>
   <url>
     <loc>https://www.littlemonkeylab.com/index.html</loc>
-    <lastmod>2022-10-22T09:55:50.134Z</lastmod>
+    <lastmod>2022-10-22T09:59:38.912Z</lastmod>
   </url>
   <url>
     <loc>https://www.littlemonkeylab.com/about.html</loc>
-    <lastmod>2022-10-22T09:55:50.866Z</lastmod>
+    <lastmod>2022-10-22T09:59:39.629Z</lastmod>
   </url>
 </urlset>
