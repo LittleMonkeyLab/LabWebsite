@@ -15,8 +15,8 @@ website:
     site: "@littlemonkeylab"
     card-style: "summary_large_image"
   navbar:
-    background: dark
-    foreground: light
+    background: "yellow"
+    foreground: dark
     left:
       - href: index.qmd
         text: Home
@@ -27,7 +27,11 @@ website:
       href: https://www.linkedin.com/in/gordonrtwright
     - icon: github
       href: https://github.com/littlemonkeylab
-
+  page-navigation: true
+  page-footer: 
+    center: "Copyright © 2022 Dr. Gordon Wright"
+    background: primary
+    foreground: "white"
 format:
   html:
     theme: journal
