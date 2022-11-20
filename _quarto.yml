@@ -7,6 +7,11 @@ website:
   description: "Our Lab Website"
   site-url: https://www.littlemonkeylab.com
   repo-url: https://github.com/littlemonkeylab/LabWebsite
+  sidebar:
+    style: docked
+    logo: images/LMLLOGO.png
+    collapse-level: 1
+    header: "LittleMonkeyLab"
 
   open-graph: true
   favicon: favicon.png
@@ -21,7 +26,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: Dr.Gordon Wright
       - href: team.qmd
         text: TheMonkeys
     right:
@@ -31,7 +36,7 @@ website:
       href: https://github.com/littlemonkeylab
   page-navigation: true
   page-footer:
-    center: "Copyright © 2022 Dr. Gordon Wright"
+    center: "Made with 💛 and Quarto. Copyright © 2022 Dr. Gordon Wright"
     background: "#003366"
     foreground: "white"
 format:

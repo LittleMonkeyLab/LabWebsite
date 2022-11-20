@@ -1,15 +1,50 @@
 ---
-title: "About"
+title: "Home Page - Under Construction"
 ---
 
-Site currently under construction.
+**Site currently under construction.**
 
-LittleMonkeyLab is a research lab in the Department of Psychology,
-Goldsmiths, University of London.
+LittleMonkeyLab is a student-focussed research lab in the Department of
+Psychology, Goldsmiths, University of London. Dr. Gordon Wright is the
+lab head,
 
 The lab is part of the Personality and Social Processes Research Group
-and is a student-focussed research lab exploring real-life social
-interaction and aspects of personality
+and its members study a range of fascinating behaviours using a
+distinctive range of methods.
+
+Some current examples:
+
+-   The cognitive, social and decision-making processes involved in
+    deception and other antagonistic or antisocial everyday behaviours
+
+-   Interpersonal perception and cognitive perspective taking in
+    ecological settings
+
+-   Predicting personality and future behaviour from limited information
+    of differing types and predictive value
+
+-   What does it take to make someone break the rules? How personality
+    influences cheating behaviours in a range of contexts
+
+-   The Machiavellian in the Workplace. How much Mach gets you paid?
+
+-   It's only a lie if I say it is. How different deception strategies
+    allow for self-justification of deceptive behaviours
+
+-   My pants are on fire. The profiles of prolific and prodigious liars
+
+\-\--
+
+**Dr. Gordon Wright's recent consultancy projects:**
+
+-   Customer segmentation and propensity modelling for a traditional
+    brand moving to online only sales
+
+-   Testing of recruitment advertising and linguistic analysis of
+    applications for a financial services organisation
+
+-   How to develop a more approachable customer service bot for a large
+    communications company
 
 If you would like to know more by joining our email list, please follow
 the link below
