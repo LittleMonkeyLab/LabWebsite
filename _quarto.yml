@@ -1,9 +1,11 @@
 project:
   type: website
+mainfont: "Atkinson Hyperlegible"
 
 
 website:
   title: "LittleMonkeyLab"
+
   description: "Our Lab Website"
   site-url: https://www.littlemonkeylab.com
   repo-url: https://github.com/littlemonkeylab/LabWebsite
@@ -42,9 +44,10 @@ website:
     foreground: "white"
 format:
   html:
-    theme: journal
+    theme: cosmo
     css: website.css
     mainfont: "Atkinson Hyperlegible"
+    sansfont: "Atkinson Hyperlegible"
     toc: true
     toc-depth: 4
     toc-title: "Contents"
