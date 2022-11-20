@@ -2,4 +2,18 @@
 title: "About"
 ---
 
-index
+Site currently under construction.
+
+LittleMonkeyLab is a research lab in the Department of Psychology,
+Goldsmiths, University of London.
+
+The lab is part of the Personality and Social Processes Research Group
+and is a student-focussed research lab exploring real-life social
+interaction and aspects of personality
+
+If you would like to know more by joining our email list, please follow
+the link below
+
+[Email List Sign-up form](http://eepurl.com/gBI-qz)
+
+or paste this link into your browser: http://eepurl.com/gBI-qz
