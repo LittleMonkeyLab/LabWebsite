@@ -55,19 +55,19 @@ Started 2016
 
 #### Undergraduate Research Methods Y2 (Level 5)
 
-+--------+-------------------------------------------------------------+
-| Year   | Teaching                                                    |
-+========+=============================================================+
-| C      | Research Methods in Psychology (Y2) - Module Coordinator    |
-| urrent | and Principle Lecturer                                      |
-|        |                                                             |
-|        | Psychology and Law (Y3) - Lecturer                          |
-+--------+-------------------------------------------------------------+
-| 2017 - | Psychology and Law (Y3) - Module Coordinator and            |
-| 2022   | co-lecturer                                                 |
-+--------+-------------------------------------------------------------+
-|        |                                                             |
-+--------+-------------------------------------------------------------+
++-----------------+----------------------------------------------------+
+| Year            | Teaching                                           |
++=================+====================================================+
+| Current         | Research Methods in Psychology (Y2) - Module       |
+|                 | Coordinator and Principle Lecturer                 |
+|                 |                                                    |
+|                 | Psychology and Law (Y3) - Lecturer                 |
++-----------------+----------------------------------------------------+
+| 2017 - 2022     | Psychology and Law (Y3) - Module Coordinator and   |
+|                 | co-lecturer                                        |
++-----------------+----------------------------------------------------+
+|                 |                                                    |
++-----------------+----------------------------------------------------+
 
 <!-- ::: {.d-flex .justify-content-between} -->
 

@@ -12,6 +12,7 @@ website:
     logo: images/LMLLOGO.png
     collapse-level: 1
     header: "LittleMonkeyLab"
+    footer: "[Email List Sign-up](http://eepurl.com/gBI-qz)"
 
   open-graph: true
   favicon: favicon.png
@@ -36,13 +37,13 @@ website:
       href: https://github.com/littlemonkeylab
   page-navigation: true
   page-footer:
-    center: "Made with 💛 and Quarto. Copyright © 2022 Dr. Gordon Wright"
+    center: "Made with 💛 and Quarto.   [Email List Sign-up](http://eepurl.com/gBI-qz)    Copyright © 2022 Dr. Gordon Wright"
     background: "#003366"
     foreground: "white"
 format:
   html:
     theme: journal
-    css: styles.css
+    css: website.css
     toc: true
     toc-depth: 4
     toc-title: "Contents"

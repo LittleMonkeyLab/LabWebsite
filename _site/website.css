@@ -1,0 +1,28 @@
+/* navbar title */
+.navbar-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+/* website title */
+h1.title {
+  font-family: Atkinson Hyperlegible;
+  font-weight: bold;
+  font-size: 2.6rem;
+  color: #066666;
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+  line-height: 1;
+  text-align: center;
+}
+
+/* footer */
+.nav-footer {
+  padding-top: 1.5em;
+}
+
+/* references */
+#references {
+  color: green;
+}
